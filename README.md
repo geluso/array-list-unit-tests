@@ -2,6 +2,9 @@
 This lab is to test your knowledge of Array Lists and give you a chance to
 write your own unit tests.
 
+Refer to the [Unit Test](https://github.com/learn-co-curriculum/seattle-dsa-tips/tree/master/lectures/mod3-week2a-unit-testing)
+slides to read what unit tests and jest are all about.
+
 ## File Structure
 Generally you should complete this lab by implementing your own ArrayList from
 scratch, and writing unit tests for it. Of all the files you will only really
